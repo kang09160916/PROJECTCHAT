@@ -1,36 +1,8 @@
-## Welcome to 프로젝트 챗봇
+## Welcome to **프로젝트 챗봇**
 
-You can use the [editor on GitHub](https://github.com/kang09160916/PROJECTCHAT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 프로젝트 챗봇
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kang09160916/PROJECTCHAT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [프로젝트 챗봇]은 프로젝트 수업을 하는 학생을 대상으로 프로젝트 수업의 절차를 알려주는 교육용 챗봇입니다.
+ 
+### **프로젝트 챗봇이 줄 수 있는 도움**
+ 1. 프로젝트 수업의 흐름
+ 2. 프로잭트 수업의 세부절차
+ 3. 프로젝트 수업에서 평가 방법
