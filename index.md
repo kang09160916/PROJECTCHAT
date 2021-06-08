@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/kang09160916/PROJECTCHAT/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### 프로젝트 챗봇
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
